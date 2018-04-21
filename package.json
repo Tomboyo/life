@@ -2,9 +2,9 @@
   "name": "life",
   "version": "0.1.0",
   "description": "[Exercise] Conway's Game of Life",
-  "main": "life.js",
+  "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha lib/**/*.test.js"
   },
   "repository": {
     "type": "git",
