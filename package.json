@@ -1,0 +1,19 @@
+{
+  "name": "life",
+  "version": "0.1.0",
+  "description": "[Exercise] Conway's Game of Life",
+  "main": "life.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tomboyo/life.git"
+  },
+  "author": "Tom Simmons (Tomboyo)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tomboyo/life/issues"
+  },
+  "homepage": "https://github.com/Tomboyo/life#readme"
+}
