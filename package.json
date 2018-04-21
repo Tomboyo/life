@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Tomboyo/life/issues"
   },
-  "homepage": "https://github.com/Tomboyo/life#readme"
+  "homepage": "https://github.com/Tomboyo/life#readme",
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  }
 }
